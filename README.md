@@ -25,3 +25,5 @@ yarn run lint
 ```bash
 quasar build
 ```
+## References
+1. [Create an App for Android, iOS, Mac & Windows - in 30 MINUTES!](https://www.youtube.com/watch?v=GV-D85D9KJQ)

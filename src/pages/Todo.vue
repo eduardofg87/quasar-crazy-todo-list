@@ -63,7 +63,7 @@
         color="primary"
       />
       <div class="text-h5 text-primary text-center">
-        No tasks
+        No crazy tasks
       </div>
     </div>
   </q-page>
@@ -75,18 +75,6 @@ export default {
     return {
       newTask: '',
       tasks: [
-        // {
-        //   title: 'Get bananas',
-        //   done: false
-        // },
-        // {
-        //   title: 'Eat bananas',
-        //   done: false
-        // },
-        // {
-        //   title: 'Poo bananas',
-        //   done: false
-        // }
       ]
     }
   },
@@ -99,7 +87,7 @@ export default {
         persistent: true
       }).onOk(() => {
         this.tasks.splice(index, 1)
-        this.$q.notify('Task delete baby!')
+        this.$q.notify('Task deleted baby!')
       })
     },
     addTask () {
