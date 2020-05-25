@@ -59,13 +59,13 @@
           </q-list>
         </q-scroll-area>
 
-        <q-img class="absolute-top" src="statics/top.jpg" style="height: 142px">
+        <q-img class="absolute-top" src="statics/layla_pretinha.jpg" style="height: 142px">
           <div class="absolute-bottom bg-transparent">
             <q-avatar size="56px" class="q-mb-sm">
-              <img src="https://cdn.quasar.dev/img/boy-avatar.png">
+              <img src="statics/layla.jpg">
             </q-avatar>
-            <div class="text-weight-bold">Razvan Stoenescu</div>
-            <div>@rstoenescu</div>
+            <div class="text-weight-bold">Eduardo</div>
+            <div>@eduardofg87</div>
           </div>
         </q-img>
       </q-drawer>
