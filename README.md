@@ -1,6 +1,10 @@
 # Home
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2b7a4642-57af-44ba-b076-54b1354012a5/deploy-status)](https://app.netlify.com/sites/amazing-meitner-47b758/deploys)
+[![Online](https://img.shields.io/badge/preview-online-yellowgreen)](https://quasar-crazy-todo-list.netlify.app/)
+[![Gitbook](https://img.shields.io/badge/documentarion-gitbook-yellow)](https://eduardofg87.gitbook.io/quasar-crazy-todo-list/)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+
 
 A crazy todo list made with Vue.JS and Quasar , check it online [HERE](https://quasar-crazy-todo-list.netlify.app/)
 
