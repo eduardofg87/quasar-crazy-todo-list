@@ -1,5 +1,7 @@
 # Quasar Crazy Todo List (quasar-crazy-todo-list)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b7a4642-57af-44ba-b076-54b1354012a5/deploy-status)](https://app.netlify.com/sites/amazing-meitner-47b758/deploys)
+
 A crazy todo list mady with Vue.JS and Quasar
 
 ## Install the dependencies
